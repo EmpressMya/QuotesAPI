@@ -71,7 +71,7 @@ function loadQuotes() {
     let card = `
       <div class="quote-card">
         <p>"${quote.q}"</p>
-        <p><em>– ${quote.a}</em></p>
+        <p><em>–<i> ${quote.a}</i></em></p>
       </div>
     `;
 
