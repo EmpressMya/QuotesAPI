@@ -1,0 +1,17 @@
+body {
+  text-align: center;
+  font-family: Arial, sans-serif;
+}
+
+#quotes-container {
+  text-align: center;
+}
+
+.quote-card {
+  background: #d9e8;
+  padding: 20px;
+  margin: 50px auto;
+  border-radius: 25px;
+  width: fit-content;
+  max-width: 80%;
+}
